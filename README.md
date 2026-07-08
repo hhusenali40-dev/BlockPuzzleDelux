@@ -1,0 +1,2 @@
+# BlockPuzzleDelux
+BlockPuzzleDeluxe/ │ ├── assets/ │   ├── fonts/ │   ├── images/ │   ├── sounds/ │   └── icon.ico │ ├── constants.py ├── board.py ├── piece.py ├── game.py ├── menu.py ├── ui.py ├── audio.py ├── save.py ├── effects.py ├── main.py ├── requirements.txt ├── README.md └── .gitignore
